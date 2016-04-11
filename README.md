@@ -1,7 +1,6 @@
 # Queue
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This project allows a user to post a question to a page only available to teacher users.  Teachers can see all the questions that have been posted by all users while users can only see the posts that they themselves have made.  Users can also delete they've posted before the teacher comes to answer them.  
 
 ## Prerequisites
 
